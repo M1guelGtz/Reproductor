@@ -15,7 +15,7 @@ audio3.setUbicacion("/ED_Linkedlist/src/Audios/03.mp3")
 
 let audio4 = new ObjAudio()
 audio4.setName("08_Skrillex - Diplo - To U ft AlunaGeorge")
-audio4.setUbicacion("/ED_Linkedlist/src/Audios/04.mp3")
+audio4.setUbicacion("/src/Audios/04.mp3")
 
 let audio5 = new ObjAudio()
 audio5.setName("07_Skrillex - Ease My Mind ft Niki The Dove")
